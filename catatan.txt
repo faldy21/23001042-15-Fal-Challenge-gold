@@ -1,0 +1,4 @@
+install dulu package:
+pip install -r requirements
+
+tambahain lagi metode cleansingnya ya sama analisis di .ipynbnya
